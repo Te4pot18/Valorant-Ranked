@@ -5,5 +5,7 @@ Un bot discord pour gérer le ranked sur un serveur discord (peu etre utilisé p
  
  a edit:
  ligne 81: l'id du channel qui vas cree les autres channel pour les rankeds
+ 
  ligne 84: l'id de la cathegory ou il vas avoir le channel pour l'attente des joueurs
+ 
  ligne 86: l'id de la cathegory ou il vas avoir les channels d'équippe
